@@ -1,0 +1,100 @@
+
+/* Styles Used For All Pages */
+.navbar-brand {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: honeydew !important;
+    position:sticky;
+}
+
+.nav-item {
+    font-family: 'Monoton', cursive;
+    font-size: x-large;
+    color: honeydew !important;
+    position:sticky;
+}
+
+h1 {
+    padding: 25px;
+    margin-left: 20px;
+    font-family: 'Monoton', cursive;
+    font-size: xx-large;
+    color: honeydew;
+}
+
+h5 {
+    font-family: 'Monoton', cursive;
+    font-size: x-large;
+    color: honeydew;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-image: url(./images/Vintage-Retro-Backgrounds.jpg);
+    background-size:auto ;
+}
+
+p {
+    font-family: 'Sansita', sans-serif;
+    font-size: medium;
+    color: honeydew;
+}
+
+footer {
+    font-family: 'Sansita', sans-serif;
+    text-align: center;
+    color: honeydew;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 15px;
+    
+}
+
+  
+
+/* INDEX PAGE */
+h2 {
+    font-family: 'Sansita', sans-serif;
+    font-size: medium;
+    color: honeydew;  
+}
+
+/* PORTFOLIO PAGE */
+.card {
+    background-color: rgb(157, 134, 75);
+    border-radius: 15px;
+    border: 5px groove honeydew;
+}
+.card-img-top {
+    border-top-right-radius:15px;
+    border-top-left-radius: 15px;
+    border-bottom: 3px groove honeydew;
+    
+}
+/* Video */
+iframe {
+    border-top-right-radius:15px;
+    border-top-left-radius: 15px;
+    border-bottom: 3px groove honeydew;
+}
+
+/* CONTACT PAGE */
+h3 {
+    font-family: 'Sansita', sans-serif;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: xx-large;
+    text-align: center;
+}
+/* Email Form Section */
+.form-group {
+    font-family: 'Sansita', sans-serif;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: medium;
+}
+button.btn {
+    padding-top: 5px;
+}
