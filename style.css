@@ -52,7 +52,7 @@ footer {
     
 }
 
-  
+
 
 /* INDEX PAGE */
 h2 {
@@ -89,12 +89,22 @@ h3 {
     text-align: center;
 }
 /* Email Form Section */
-.form-group {
+.submit {
+    margin-left:50%;
+    margin-right: 50%;
+}
+
+
+/* Web Development Page */
+
+
+.btn {
     font-family: 'Sansita', sans-serif;
-    font-weight: bolder;
-    color: whitesmoke;
     font-size: medium;
+    color: honeydew; 
+    background-color: rgb(157, 134, 75);
+    border-radius: 15px;
+    border: 5px groove honeydew; 
 }
-button.btn {
-    padding-top: 5px;
-}
+
+
