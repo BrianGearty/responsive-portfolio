@@ -15,13 +15,13 @@ $(".quiz").click(function(){
 $('.github-quiz').click(function(){
     window.location.href = "https://github.com/BrianGearty/QuizHomework";
 })
-// Button to Deployed Weather App
-$(".weather").click(function(){
-    window.location.href = "https://briangearty.github.io/WeatherDashboard/";
+// Button to Le Marche Francais
+$(".francais").click(function(){
+    window.location.href = "https://lemarchefrancais.herokuapp.com/";
 })
 // Button to Github Repo
-$('.github-quiz').click(function(){
-    window.location.href = "https://github.com/BrianGearty/WeatherDashboard";
+$('.github-francais').click(function(){
+    window.location.href = 'https://github.com/BrianGearty/Project_2';
 })
 
 $('#submit').click(function() {
